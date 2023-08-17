@@ -1,9 +1,8 @@
 import React from "react";
 
 const Header = () => {
-  // const scrollToSpot = (x, y) => {
-  //   window.scrollTo(x,y);
-  // };
+
+  // TODO: I want to add functionality to have the page scroll when buttons on the navbar are clicked.
 
   return (
     <header>
