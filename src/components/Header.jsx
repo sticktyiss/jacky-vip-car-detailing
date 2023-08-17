@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <header>
       <nav>
-        <button onClick={scrollToSpot(0,0)} >Home</button>
+        <button >Home</button>
         <button>Reviews</button>
         <button>Services</button>
         <button>Location</button>
