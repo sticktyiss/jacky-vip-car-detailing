@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.08f6b19e.js",
+    "main.css": "/static/css/main.00d8b11c.css",
+    "main.js": "/static/js/main.0b595070.js",
+    "static/media/fabe-collage-xR8Xj3Pq__M-unsplash (1).jpg": "/static/media/fabe-collage-xR8Xj3Pq__M-unsplash (1).a5852beb9c6d204ac6bb.jpg",
     "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.08f6b19e.js.map": "/static/js/main.08f6b19e.js.map"
+    "main.00d8b11c.css.map": "/static/css/main.00d8b11c.css.map",
+    "main.0b595070.js.map": "/static/js/main.0b595070.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.08f6b19e.js"
+    "static/css/main.00d8b11c.css",
+    "static/js/main.0b595070.js"
   ]
 }
