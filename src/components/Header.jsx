@@ -10,7 +10,7 @@ const Header = () => {
         <button >Home</button>
         <button>Reviews</button>
         <button>Services</button>
-        <button>Location</button>
+        <button>Contact</button>
       </nav>
       <h1>
         VIP Vehicle Detailing <br /> & Power Washing
